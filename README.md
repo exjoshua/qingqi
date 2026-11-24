@@ -11,7 +11,7 @@
 ```sh
 git clone https://github.com/exjoshua/qingqi.git
 cd qingqi
-./build.sh
+zsh ./build.sh
 open ./build/轻启.app
 ```
 
